@@ -1,2 +1,2 @@
 # Headcount-Projections-
-Machine Learning to help predict what future headcounts for Runsheet creation
+Utlise Machine learning to predict headcounts in the future to help with Runsheet creation.
